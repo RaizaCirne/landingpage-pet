@@ -23,6 +23,7 @@ h1 img {
 nav {
 	position: relative;
 	top: 51px;
+	right: 40px;
 }
 
 nav li {
