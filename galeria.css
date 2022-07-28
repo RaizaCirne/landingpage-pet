@@ -1,0 +1,30 @@
+body {
+    background:#EEE8AA;
+    text-align: center;
+}
+
+header {
+    background: #8B4513;
+    border: 5px solid #8B4513;
+    padding: 20px 0;
+}
+
+#logo {
+    width: 600px;
+}
+h1 {
+    font-size: 20px;
+    margin: 40px;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+
+  img {
+    width: 25%;
+    margin: 20px;
+    border-radius: 10px;
+  }
+
+  img:hover {
+    width: 28%;
+  }
