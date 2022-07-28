@@ -1,0 +1,99 @@
+/* cabeçalho da página inicial */
+
+body{
+	background-image: linear-gradient(#ffb366, #ffe6cc, #fff3e6);
+	text-align: center;
+}
+
+header {
+	background:#854c1b;
+	padding: 60px 0;
+}
+
+.cabeçalho {
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+}
+
+h1 img {
+    width: 500px;
+}
+
+nav {
+	position: relative;
+	top: 51px;
+}
+
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+	padding: 30px;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 17px;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: chocolate;
+	text-decoration: underline;
+}
+
+/* segunda section da página inicial */
+
+.servicos {
+	width: 940px;
+	margin: 0 auto;
+	padding: 50px 0;
+}
+
+.servicos li {
+	display: inline-block;
+	text-align: center;
+	width: 40%;
+	vertical-align: top;
+	margin: 2%;
+	padding: 30px 20px;
+	border: 2px solid #000000;
+	border-radius: 40px;
+}
+
+.servicos li:hover {
+	border-color: chocolate;
+}
+
+.servicos li:active {
+	border-color: white;
+}
+
+.servicos li a {
+	text-decoration: none;
+	color: #000000;
+}
+
+.servicos li:hover h2 {
+	font-size: 27px;
+}
+
+.servicos h2 {
+	font-size: 22px;
+	font-weight: bold;
+	color: #000000;
+}
+
+.servicos-descricao {
+	font-size: 17px;
+	padding: 20px;
+}
+
+.servicos-preco {
+	font-size: 15px;
+	font-weight: bold;
+	margin-top: 10px;
+}
+
