@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    background-image: linear-gradient(to bottom right, #e2bd7e, #fef1dc, #FFFFFF);
+    width: 90%;
+    margin: 0 auto;
+}
+
+#quemsomos img {
+ width: 40%;
+ margin: 50px;
+}
+
+img {
+    width: 25%;
+    margin: 25px;
+}
+p {
+    line-height: 1.5;
+    font-size: 20px;
+    padding: 20px;
+}
+
+div {
+    border: 1px solid #000000;
+    border-radius: 8px;
+    padding: 30px;
+   margin: 90px;
+}
+
+div:hover {
+   color: #ffa500;
+}
