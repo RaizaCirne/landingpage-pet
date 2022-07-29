@@ -5,25 +5,17 @@
         <title>Amor pra Cachorro</title>
 
         <link rel="stylesheet" href="reset.css">
-        <link rel="stylesheet" href="">
+        <link rel="stylesheet" href="style-contato.css">
     </head>
 
     <body>
         <header>
-            <div class="cabeçalho">
-                <h1><img src="logo.png" alt="Logo da página amor pra cachorro"></h1>
-            
-                <nav>
-                    <ul>
-                        <li><a href="quemsomos.html">Quem somos?</a></li>
-                        <li><a href="galeria.html">Galeria de fotos</a></li>
-                        <li><a href="https://www.google.com/">Contato</a></li>
-                    </ul>
-                </nav>
-            </div>
-        </header>
+            <img id="logo" src="logo.png" alt="Logo da página amor pra cachorro">
+         </header>
 
         <main>
+            <p> Se interessou por nosso serviço? Entre em contato e faça a reserva do seu pet!</p>
+        
             <form>
                 <label for="nome">Nome</label>
                 <input type="text" id="nome">
@@ -34,13 +26,15 @@
                 <label for="telefone">Telefone</label>
                 <input type="text" id="telefone">
 
-                <input type="submit" value="Enviar formulário">
+                <label for="mensagem">Mensagem</label>
+                <textarea cols="70" rows="10" id="mensagem"></textarea>
+
+                <input class="Enviar" type="submit" value="Enviar formulário">
             </form>
         </main>
 
         <footer>
             <img src="logo.png" alt="Logo da página amor pra cachorro">
         </footer>
-      
     </body>
 </html>

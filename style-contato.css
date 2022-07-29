@@ -1,0 +1,70 @@
+body {
+    background-image: linear-gradient(#ffb366, #ffe6cc, #fff3e6);
+}
+
+header {
+    text-align: center;
+    background: #8B4513;
+    border: 5px solid #8B4513;
+    padding: 20px 0;
+}
+
+#logo {
+    width: 600px;
+}
+
+main {
+    width: 940px;
+    margin: 0 auto;
+}
+p {
+    font-size: 20px;
+    margin: 40px 0;
+}
+
+form {
+    margin: 40px 0;
+}
+
+form label {
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+
+form input, form textarea {
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 50%;
+}
+
+.Enviar {
+    width: 40%;
+    padding: 15px 0;
+    font-weight: bold;
+    font-size: 15px;
+    border: 0.5px solid;
+    border-radius: 5px;
+}
+
+.Enviar:hover {
+    background:#8B4513;
+}
+
+footer {
+    text-align: center;
+    background: #8B4513;
+    border: 5px solid #8B4513;
+    padding: 20px 0;
+}
+
+footer img {
+    width: 600px;
+}
+
+
+
+
+
+
