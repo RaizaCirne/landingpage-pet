@@ -1,4 +1,4 @@
-# Landing page pet 
+# Landing page para serviços pet 
 
 ![Design preview Landing page](./design/desktop-index.png)
 
@@ -8,7 +8,9 @@ Essa foi a criação da minha primeira landing page para adquirir habilidades de
 
 **O projeto foi feito em HTML e CSS.**
 
-# Design para Aplicativo musical 
+# Sobre o projeto
+
+https://raizacirne.github.io/landingpage-pet/
 
 Através do desafio do Frontend Mentor, realizei uma nova versão onde foram feitas diversas alterações. Acrescentando uma `cor` e `background` com cores diferentes, além de um formulário de pagamento.
 
