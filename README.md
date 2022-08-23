@@ -1,6 +1,6 @@
 # Landing page pet 
 
-![Design preview Landing page](./design/desktop-preview.jpg)
+![Design preview Landing page](./design/desktop-index.png)
 
 ## Bem-vindo! 👋
 
