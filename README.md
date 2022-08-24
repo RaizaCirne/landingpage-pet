@@ -3,7 +3,7 @@
 ![Design preview Landing page principal](./design/desktop-index.png)
 
 ![Design preview Landing page quem somos](./design/desktop-quemsomos.png)
-![Design preview Landing page quem somos](./design/desktop-quemsomos2.png)
+![Design preview Landing page quem somos2](./design/desktop-quemsomos2.png)
 
 ![Design preview Landing page galeria de fotos](./design/desktop-galeria.png)
 
