@@ -1,11 +1,13 @@
-# Landing page para serviços pet 
+# Landing page para serviços pet 🏠🐕
 
-![Design preview Landing page 1](./design/desktop-index.png)
+![Design preview Landing page principal](./design/desktop-index.png)
 
+![Design preview Landing page quem somos](./design/desktop-quemsomos.png)
+![Design preview Landing page quem somos](./design/desktop-quemsomos2.png)
 
-![Design preview Landing page 2](./design/desktop-quemsomos.png)
+![Design preview Landing page galeria de fotos](./design/desktop-galeria.png)
 
-![Design preview Landing page 2](./design/desktop-quemsomos2.png)
+![Design preview Landing page contato](./design/desktop-contato.png)
 
 
 # Bem-vindo! 👋
@@ -35,10 +37,14 @@ HTML e CSS.
 
 1. Criação do arquivo `index.html` e do `style.css`como página principal com links clicáveis para os serviços oferecidos de uma página já existente, e o `header` com links clicáveis para os arquivos `quemsomos.html`, `galeria.html` e `contato.html`.
 
+
 2. Criação do arquivo `quemsomos.html`e `style-quem-somos.css`com informações sobre os serviços e sua localização. 
+
 
 3. Criação do arquivo `galeria.html` e `style-galeria.css`com a galeria de fotos dos pets. 
 
+
 4. Criação do arquivo `contato.html` e `style-contato.css` com um formulário de contato para preenchimento com `input`.
+
 
 **HTML - CSS** 🚀
