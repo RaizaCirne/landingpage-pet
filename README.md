@@ -2,22 +2,28 @@
 
 ![Design preview Landing page](./design/desktop-index.png)
 
-## Bem-vindo! 👋
+# Bem-vindo! 👋
 
 Essa foi a criação da minha primeira landing page para adquirir habilidades de codificação criando projetos realistas.
 
-# O projeto
+## O projeto
 
 Clique no link para acessar a página: https://raizacirne.github.io/landingpage-pet/
 
-**O projeto foi feito em HTML e CSS.**
+### Objetivo
 
 O objetivo foi criar uma landing page de serviços pet para adquirir conhecimentos nas linguaguens de marcação HTML e CSS. 
 
 Dentro da pasta `/design` encontram-se os designs do projeto. 
 Os desenhos estão em formato PNG estático. Usei meu julgamento para estilos como `font-size`, `padding` e `margin`.
 
-## Sobre o projeto
+# Tecnologias utilizadas 
+
+## Front end
+
+HTML e CSS. 
+
+# Sobre o projeto
 
 **A construção deste projeto consistiu na criação de quatro páginas.**
 
