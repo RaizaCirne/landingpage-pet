@@ -167,13 +167,8 @@ Novos projetos para aprender o uso do flexbox.
 Clone este repositório usando o comando:
 
 ```bash
-<<<<<<< HEAD
-git clone https://github.com/RaizaCirne/site-ada-lovelace.git
-=======
 git clone https://github.com/RaizaCirne/landingpage-pet.git
->>>>>>> 95eb9e74e1c3bf3becb55e80eeca9d4948a2ee1f
 ```
-
 
 Baixar arquivo zip 
 
